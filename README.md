@@ -11,7 +11,6 @@ Completed:
 - Implemented camera movements
 - Created a scene with a terrain and multiple assets
 - Created a first-person camera view
-- Created a joystick
 
 Incompleted/Struggles:
 
