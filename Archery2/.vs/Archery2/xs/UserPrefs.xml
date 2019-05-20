@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E93D1C46-5600-EC53-5539-56637D827429}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/shoott.cs">
+    <Files>
+      <File FileName="Assets/Scripts/aim.cs" Line="6" Column="40" />
+      <File FileName="Assets/Scripts/shoot.cs" Line="66" Column="49" />
+      <File FileName="Assets/Scripts/force.cs" Line="14" Column="22" />
+      <File FileName="Assets/Scripts/shoott.cs" Line="18" Column="62" />
+      <File FileName="Assets/Scripts/arrow.cs" Line="30" Column="29" />
+      <File FileName="Assets/Play.cs" Line="8" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
