@@ -18,4 +18,5 @@ Incompleted/Struggles:
 - Function of bow and arrow is glitchy and not functioning correctly
 - With the bow and arrow functionality not working, target collision and scores were also incompleted.
 - No background music or game sounds
-- Movement across the map was glitchy and therefore incompleted. 
+- Movement across the map was glitchy and therefore incompleted
+- No other levels or enemies were implemented
