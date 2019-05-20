@@ -19,3 +19,6 @@ Incompleted/Struggles:
 - No background music or game sounds
 - Movement across the map was glitchy and therefore incompleted
 - No other levels or enemies were implemented
+
+Building unity game to an iOS device: 
+https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-ios-device-testing
